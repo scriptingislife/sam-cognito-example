@@ -37,7 +37,7 @@ aws cognito-idp admin-respond-to-auth-challenge --user-pool-id <USER-POOL> --cli
 
 Use the value of `IdToken` in the next command.
 
-### 4. Authenticate to the Endpoint
+### 4. Send an Authenticated Request
 
 Replace `<ID-TOKEN>` and `<API-ID>`.
 
